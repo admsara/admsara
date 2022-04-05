@@ -1,8 +1,10 @@
- Ola, eu sou a Sara, 
- <a href="https://github.com/admsara">
- #
+<div class="row" style="display:inline_block">
+<a href="https://github.com/admsara">
+[![admsara GitHub stats](https://github-readme-stats.vercel.app/api?username=admsara)](https://github.com/admsara/github-readme-stats)
+[![admsara GitHub stats](https://github-readme-stats.vercel.app/api?username=admsara&hide=contribs,prs)
+</div>
+
 📱 Contato 
-<br>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TwpbCPxtwm) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UC_K_bgFTMjjJCieE4htGv1Q)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asarazache/)
