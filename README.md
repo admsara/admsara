@@ -1,10 +1,12 @@
  Ola, eu sou a Sara, 
-<br>
+ Sou formada em Design Grafico e TI
+ <br>
+<div class="row" style="display:inline_block">
 Encontre-me nos grupos:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TwpbCPxtwm) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UC_K_bgFTMjjJCieE4htGv1Q)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asarazache/)
-
+</div>
 
 Habilidades alcançadas
 <div class="row" style="display:inline_block">
