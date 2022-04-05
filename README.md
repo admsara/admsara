@@ -1,6 +1,6 @@
 <div>
 <a href="https://github.com/admsara">
-[![admsara GitHub stats](https://github-readme-stats.vercel.app/api?username=admsara)](https://github.com/admsara/github-readme-stats)>
+
 
   
   
