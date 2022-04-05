@@ -1,9 +1,11 @@
-### Ola, eu sou a Sara 👋
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TwpbCPxtwm) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asarazache/) 
+ Ola, eu sou a Sara, 
+<br>
+Encontre-me nos grupos:
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TwpbCPxtwm) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UC_K_bgFTMjjJCieE4htGv1Q)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asarazache/)
 
-##
+
 Habilidades alcançadas
 <div class="row" style="display:inline_block">
 <img align="center"alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -15,15 +17,16 @@ Habilidades alcançadas
 <img align="center"alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <br>
-##
-Consoles e Games
-<div class="row" style="display:inline_block">style="display:inline_block">
+
+Consoles e Games:
+<div class="row" style="display:inline_block">
 <img align="center"alt="playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
 <img align="center"alt ="xbox"src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
 </div>
 <br>
-## 
-Aplicativos de Design utilizados
+
+Aplicativos de Design utilizados:
 <div class="row" style="display:inline_block">  
 <img align="center"alt="ps"src="https://aleen42.github.io/badges/src/photoshop.svg">
 </div>
+<br>
