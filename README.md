@@ -4,7 +4,7 @@
 
   
   
-👩‍🎓 Designer Grafica e Tecnica em informatica
+👩‍🎓 Sou a Sara 
   #
 📱 Redes sociais
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TwpbCPxtwm) 
